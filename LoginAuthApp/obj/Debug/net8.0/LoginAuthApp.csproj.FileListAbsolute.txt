@@ -1,0 +1,7 @@
+E:\dot_net_application\LoginAuthApp\obj\Debug\net8.0\LoginAuthApp.csproj.AssemblyReference.cache
+E:\dot_net_application\LoginAuthApp\obj\Debug\net8.0\LoginAuthApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\dot_net_application\LoginAuthApp\obj\Debug\net8.0\LoginAuthApp.AssemblyInfoInputs.cache
+E:\dot_net_application\LoginAuthApp\obj\Debug\net8.0\LoginAuthApp.AssemblyInfo.cs
+E:\dot_net_application\LoginAuthApp\obj\Debug\net8.0\LoginAuthApp.csproj.CoreCompileInputs.cache
+E:\dot_net_application\LoginAuthApp\obj\Debug\net8.0\LoginAuthApp.MvcApplicationPartsAssemblyInfo.cs
+E:\dot_net_application\LoginAuthApp\obj\Debug\net8.0\LoginAuthApp.MvcApplicationPartsAssemblyInfo.cache
